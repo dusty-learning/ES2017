@@ -128,7 +128,7 @@ const myAsyncFunc = () =>
     .then(([set1, set2]) => console.log(set1, set2));
 ```
 
-### Handling Errors
+## Handling Errors
 
 Handling errors with async/await is slightly different than promises.
 
