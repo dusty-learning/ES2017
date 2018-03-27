@@ -152,3 +152,14 @@ const myAsyncFunc = () =>
 ```
 
 So sadly error handling is not as majestic as the rest...
+
+## Browser Support
+
+| Browser       | Support       | Vers  |
+| ------------- |:-------------:| -----:|
+| Chrome        | Yes           | 55+   |
+| Firefox       | Yes           | 52+   |
+| Edge          | Yes           | NA    |
+| IE            | No            | NA    |
+| Safari        | Yes           | 10.1+ |
+| Opera         | Yes           | 42+   |

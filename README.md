@@ -6,3 +6,5 @@ This release of JavaScript gives us more tools when working with async functiona
 ## Content
 
 - [Async/Await](https://github.com/dusty-learning/ES2017/tree/master/async-await)
+- [Object.entries](https://github.com/dusty-learning/ES2017/tree/master/entries)
+- [Object.values](https://github.com/dusty-learning/ES2017/tree/master/values)
