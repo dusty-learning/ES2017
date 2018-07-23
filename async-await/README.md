@@ -1,6 +1,6 @@
 # Async & Await
 
-One of the most prominent features added with ES2017 is Async/Await which makes working with async functionality that much easier.
+One of the most prominent features added with ES2017 is Async/Await
 
 These guys work a LOT like [ES2015 Promises](https://github.com/dusty-learning/es6/tree/master/promises) which you can checkout in the es6 repo.
 
